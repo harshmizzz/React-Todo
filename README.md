@@ -1,7 +1,8 @@
 To Visit The web-app Click: https://react-todos-hm.netlify.app/
 
 
-
+To install
+`npm install`
 
 In the project directory, you can run:
 
